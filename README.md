@@ -1,11 +1,10 @@
-# Web Authentication Issuer App based on Trinsic API
+# Driving License Issuance based on Trinsic API(SSI)
 This demo shows the use of Trinsic Credentials API calls into a nodejs app with their service client.
-It also shows a webhook implementation can create automated workflows in the app.
+It also shows that a webhook implementation can create automated workflows in the app.
 
 ## Use Case
-In this simple use case, the portal will act like an Identity Service Provider for web authentication which would issue credential including an email, full name, date of birth, role and an unique Identification Number.
-
-Once a credential is issued, that holder can use these to login to various website  using the Trinsic Wallet app.
+In this simple use case, the portal will be used to fill in user data by Driving license Issuing Authority. This would include details that are usually present in a driving license.
+Once the driving license is issued, it would be stored in the user's digital wallet which would be Trinsic Wallet app for this project. It can then be used accross any car rentals or verifiers.
 
 The demo of how this can be used can be found in the verification repository ()
 
@@ -16,7 +15,7 @@ The demo of how this can be used can be found in the verification repository ()
 
 1. Download the [Android](https://play.google.com/store/apps/details?id=id.streetcred.apps.mobile) or [iOS](https://apps.apple.com/us/app/trinsic-wallet/id1475160728) Trinsic Wallet.
 
-## Steps to issue Web credential:
+## Steps to issue Driving license credential:
 
 ### Prepare issuer portal
 1. Clone the repository
