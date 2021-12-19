@@ -29,6 +29,7 @@ The demo of how this can be used can be found in the verification repository ()
 
 1. Run with npm
 `npm start`
+2. The web app will run on 'http://localhost:3001/'
 2. On the web app, fill in the details and click issue credential.
 ![credential view](assets/IssuerMain.PNG)
 
@@ -38,5 +39,5 @@ The demo of how this can be used can be found in the verification repository ()
 This is a connection invitation.
 Webhooks will automatically issue you a credential once this is scanned and the connection is accepted.
 
-Then, simply accept the credential offer and receive a Web Credential!
+Then, simply accept the credential offer and receive a digital driving license on your wallet!
 
