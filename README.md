@@ -1,5 +1,5 @@
 # Driving License Issuance based on Trinsic API(SSI)
-This demo shows the use of Trinsic Credentials API calls into a nodejs app with their service client.
+This demo shows the use of Trinsic Credentials API calls into a nodejs app.
 It also shows that a webhook implementation can create automated workflows in the app.
 
 ## Use Case
