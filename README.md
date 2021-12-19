@@ -30,10 +30,10 @@ The demo of how this can be used can be found in the verification repository ()
 1. Run with npm
 `npm start`
 2. On the web app, fill in the details and click issue credential.
-![credential view](assets/IssuerStep1.png)
+![credential view](assets/IssuerMain.PNG)
 
 4. Scan the QR with your mobile wallet.
-![qr code view](assets/IssuerStep2.png)
+![qr code view](assets/IssuerQRCode.PNG)
 
 This is a connection invitation.
 Webhooks will automatically issue you a credential once this is scanned and the connection is accepted.
