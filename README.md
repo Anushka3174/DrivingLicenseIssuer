@@ -19,7 +19,7 @@ The demo of how this can be used can be found in the verification repository ()
 
 ### Prepare issuer portal
 1. Clone the repository
-`git clone https://github.com/Anushka3174/SSIIssuerApp.git`
+`git clone https://github.com/Anushka3174/DrivingLicenseIssuer.git`
 3. Install the dependencies
 `npm install`
 4. Open up the repository in a code editor of your choice
