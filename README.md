@@ -33,7 +33,7 @@ The demo of how this can be used can be found in the verification repository ()
 ![credential view](assets/IssuerMain.PNG)
 
 4. Scan the QR with your mobile wallet.
-![qr code view](assets/IssuerQRCode.PNG)
+![qr code view](assets/IssueQRCode.PNG)
 
 This is a connection invitation.
 Webhooks will automatically issue you a credential once this is scanned and the connection is accepted.
